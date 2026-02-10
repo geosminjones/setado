@@ -1,0 +1,11 @@
+{
+  "database_path": "A:/Mass DBs/todoUI.db",
+  "backup_path": "A:\\dev environment\\todoUI\\todoUI 0.1\\data\\backups",
+  "frame_count": 2,
+  "default_priority": 3,
+  "theme": "black",
+  "frame_projects": [
+    1,
+    6
+  ]
+}
